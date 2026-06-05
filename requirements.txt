@@ -1,0 +1,6 @@
+streamlit
+langdetect
+pyspellchecker
+nltk
+langcodes
+deep-translator
